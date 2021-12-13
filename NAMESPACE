@@ -3,5 +3,6 @@
 export(ls.e)
 export(ls.l)
 export(ls.lst)
+export(ls.lstK)
 export(ls.ndvi)
 export(ls.tb)

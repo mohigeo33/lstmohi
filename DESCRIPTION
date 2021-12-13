@@ -1,10 +1,10 @@
 Package: lstmohi
 Type: Package
-Title: Calculates Land Surface Temperature (LST) from Landsat 8 Images
+Title: Land Surface Temperature from Landsat 8 Images
 Version: 1.0.0
 Author: Gulam Mohiuddin
 Maintainer: Gulam Mohiuddin <mohigeo33@gmail.com>
-Description: This helps to calculate LST easily by just introducing band 10, band 5 and band 4
+Description: The package calculates land surface temperature by calling simple functions after introducing band 10, band 5 and band 4 from Landsat 8 images.It also calcuate the intermediate indices like normalized difference vegetation index, radiance, emissivity and temperature brightness.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
@@ -15,3 +15,5 @@ RoxygenNote: 7.1.2
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Depends: 
+    R (>= 2.10)

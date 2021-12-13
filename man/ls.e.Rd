@@ -7,9 +7,9 @@
 ls.e(b5, b4)
 }
 \arguments{
-\item{b5}{band 5/ Near Infra-Red (NIR) band of Landsat 8 image}
+\item{b5}{Raster object}
 
-\item{b4}{band 4/ Near Infra-Red (NIR) band of Landsat 8 image}
+\item{b4}{Raster object}
 }
 \value{
 emissivity
