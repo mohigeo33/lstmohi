@@ -1,6 +1,6 @@
 Package: lstmohi
 Type: Package
-Title: Calculates land surface temperature (LST) from Landsat 8 images
+Title: Calculates Land Surface Temperature (LST) from Landsat 8 Images
 Version: 0.1.0
 Author: Gulam Mohiuddin
 Maintainer: Gulam Mohiuddin <mohigeo33@gmail.com>
