@@ -1,6 +1,6 @@
 # R package for calculating land surface temperature (LST) from Landsat 8 image
 
-Gulam Mohiuddin (mohigeo33@gmail.com)
+Gulam Mohiuddin (Gulam.Mohiuddin@hnee.de)
 
 13 December 2021
 
